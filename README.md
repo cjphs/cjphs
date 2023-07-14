@@ -2,6 +2,10 @@
 
 Programmer & artist on the side.
 
+Currently living in the Netherlands 🇳🇱
+
+Languages: 🇬🇧 English (native speaker), 🇩🇪 German, 🇱🇺 Luxembourgish, 🇫🇷 French (working proficiency).
+
 <!--
 **cjphs/cjphs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
