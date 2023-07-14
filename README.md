@@ -1,6 +1,6 @@
 ### 
 
-Currently living in the Netherlands 🇳🇱
+Hi! My name is Christopher, and I am a programmer & artist born Luxembourg 🇱🇺 & living in the Netherlands 🇳🇱.
 
 Languages: 
 - 🇬🇧 English (native speaker)
