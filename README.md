@@ -6,7 +6,7 @@ Languages:
 - 🇬🇧 English (native speaker)
 - 🇩🇪 German
 - 🇱🇺 Luxembourgish
-- 🇫🇷 French (working proficiency).
+- 🇫🇷 French
 
 <!--
 **cjphs/cjphs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
