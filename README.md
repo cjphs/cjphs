@@ -8,9 +8,11 @@ I'm a Luxembourgish fullstack developer living in the Netherlands. Currently, I'
 - 🇱🇺 Luxembourgish
 - 🇫🇷 French
 
+____
+
 🎶🎵
 
-While programming, I enjoy listening to specific types of music... some of my recommendations are [Øneheart](https://iamoneheart.bandcamp.com/) (for calm ambient mixes), [HOME](https://home96.bandcamp.com/) (for "inspirational" programming sessions), and [Carpenter Brut](https://carpenterbrut.bandcamp.com/) (for those aggressive programming sessions that may result in accidentally breaking your keyboard).
+While programming, I enjoy listening to specific types of music... some of my recommendations are [Øneheart](https://iamoneheart.bandcamp.com/) (for calm ambient mixes), [HOME](https://home96.bandcamp.com/) (for "in the zone" programming sessions), and [Carpenter Brut](https://carpenterbrut.bandcamp.com/) (for those aggressive programming sessions that may result in accidentally breaking your keyboard).
 
 
 <!--
