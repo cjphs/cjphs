@@ -2,9 +2,11 @@
 
 I'm a Luxembourgish fullstack developer living in the Netherlands. Currently, I'm a working student at [Frontmark GmbH](https://www.frontmark.de/). 
 
-**Tech stack**: 🐍 Python, ☕ Java, 📜 Javascript, 🐘 PostgreSQL, 🐳 Docker
+_**Tech stack**_  
+`🐍 Python`, `☕ Java`, `📜 Javascript`, `🐘 PostgreSQL`, `🐳 Docker`
 
-**Languages**: 🇬🇧 English (native speaker), 🇩🇪 German, 🇱🇺 Luxembourgish, 🇫🇷 French
+_**Languages**_  
+🇬🇧 English (native speaker), 🇩🇪 German, 🇱🇺 Luxembourgish, 🇫🇷 French
 
 <!--
 ### Tech stack:
