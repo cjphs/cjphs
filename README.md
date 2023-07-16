@@ -1,6 +1,6 @@
 ### 
 
-I'm a Luxembourgish fullstack developer living in the Netherlands. Currently, I'm a working student at [Frontmark GmbH](https://www.frontmark.de/). 
+I am a Luxembourgish fullstack developer living in the Netherlands. Currently, I'm a working student at [Frontmark GmbH](https://www.frontmark.de/). 
 
 _**Tech stack**_  
 `🐍 Python`, `☕ Java`, `📜 Javascript`, `🐘 PostgreSQL`, `🐳 Docker`
