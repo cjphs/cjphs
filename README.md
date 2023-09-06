@@ -1,27 +1,8 @@
 ### 
 
-Luxembourgish fullstack developer living in the Netherlands. 
-
-_**Tech stack**_  
-`🐍 Python`, `☕ Java`, `📜 Javascript`, `🐘 PostgreSQL`, `🐳 Docker`
-
 _**Languages**_  
 🇬🇧 English (native speaker), 🇩🇪 German, 🇱🇺 Luxembourgish, 🇫🇷 French
 
-<!--
-### Tech stack:
-- 🐍 Python
-- ☕ Java
-- 📜 Javascript
-- 🐘 PostgreSQL
-- 🐳 Docker
-
-### Languages: 
-- 🇬🇧 English (native speaker)
-- 🇩🇪 German
-- 🇱🇺 Luxembourgish
-- 🇫🇷 French
--->
 ___
 
 <!--
